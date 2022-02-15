@@ -1,4 +1,4 @@
-# harmonic-oscillator-energy-levels-probability-
+# harmonic-oscillator-energy-levels-probability-by-matlab
 
 Matlab code for quantum harmonic oscillator energy levels probability 
 
